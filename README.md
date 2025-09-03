@@ -147,3 +147,5 @@ The application consists of the following main components:
 Swager UI 
 
 ## License
+
+![My Project Workflow](https://github.com/Israk-ML-1999/Automatic_lead_assesment/blob/main/image.png?raw=true)
