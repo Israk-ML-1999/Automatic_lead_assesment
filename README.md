@@ -142,8 +142,8 @@ The application consists of the following main components:
 -   The pipeline uses concurrent futures to process lead batches in parallel, improving throughput.
 -   The `MAX_CONCURRENT_BATCHES` environment variable controls the level of parallelism.
 
-## Contributing
+# For output check Image Folder
 
-Feel free to contribute to the project by submitting pull requests.
+Swager UI 
 
 ## License
