@@ -145,7 +145,8 @@ The application consists of the following main components:
 # For output check Image Folder
 
 Swager UI 
+![My Project Workflow]()
+![My Project Workflow]()
 
-## License
-
+## Workflow
 ![My Project Workflow](https://github.com/Israk-ML-1999/Automatic_lead_assesment/blob/main/image.png?raw=true)
