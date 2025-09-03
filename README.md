@@ -142,11 +142,11 @@ The application consists of the following main components:
 -   The pipeline uses concurrent futures to process lead batches in parallel, improving throughput.
 -   The `MAX_CONCURRENT_BATCHES` environment variable controls the level of parallelism.
 
-# For output check Image Folder
+# For output check Sawgger_UI_Output Folder
 
 Swager UI 
-![My Project Workflow]()
-![My Project Workflow]()
+![My Project output]()
+![My Project output]()
 
 ## Workflow
 ![My Project Workflow](https://github.com/Israk-ML-1999/Automatic_lead_assesment/blob/main/image.png?raw=true)
